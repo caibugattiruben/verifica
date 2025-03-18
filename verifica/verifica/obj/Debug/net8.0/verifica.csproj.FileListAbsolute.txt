@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\bin\Debug\net8.0\verifica.exe
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\bin\Debug\net8.0\verifica.deps.json
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\bin\Debug\net8.0\verifica.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\bin\Debug\net8.0\verifica.dll
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\bin\Debug\net8.0\verifica.pdb
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.dll
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\refint\verifica.dll
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.pdb
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\verifica.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\verifica\verifica\verifica\obj\Debug\net8.0\ref\verifica.dll
